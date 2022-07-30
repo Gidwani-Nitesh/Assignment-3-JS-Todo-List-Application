@@ -95,7 +95,7 @@ table tr td button {
         flex-direction: column !important;
         }
 
-    #addtaskbtn ,#deleteallbtn{
+    #addtaskbtn, #deleteallbtn, #savetaskbtn{
         min-width: 100%;
     }
   }
